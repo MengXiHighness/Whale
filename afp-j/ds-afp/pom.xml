@@ -35,7 +35,7 @@
 		<ds-log2-client-java.version>1.0.0</ds-log2-client-java.version>
 		<!-- common projects -->
 		<commons-pool2.version>2.6.0</commons-pool2.version>
-		<commons-beanutils.version>1.9.3</commons-beanutils.version>
+		<commons-beanutils.version>1.9.4</commons-beanutils.version>
 		<commons-io.version>2.5</commons-io.version>
 		<commons-fileupload.version>1.3.2</commons-fileupload.version>
 		<commons-codec.version>1.10</commons-codec.version>
