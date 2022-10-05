@@ -70,7 +70,7 @@
 
 		<!-- frameworks -->
 		<org.springframework.version>5.0.4.RELEASE</org.springframework.version>
-		<spring-data-jpa.vresion>2.0.5.RELEASE</spring-data-jpa.vresion>
+		<spring-data-jpa.vresion>2.1.0.RELEASE</spring-data-jpa.vresion>
 		<spring-data-commons.version>2.0.9.RELEASE</spring-data-commons.version>
 		<org.apache.struts.version>2.3.15.1</org.apache.struts.version>
 		<spring.restdocs.mockmvc.version>2.0.0.RELEASE</spring.restdocs.mockmvc.version>
