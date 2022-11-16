@@ -43,7 +43,7 @@
 		<commons-collections4.version>4.1</commons-collections4.version>
 		<httpclient.version>4.4.1</httpclient.version>
 		<dom4j.version>1.6.1</dom4j.version>
-		<jackson-core.version>2.9.6</jackson-core.version>
+		<jackson-core.version>2.12.7.1</jackson-core.version>
 		<log4j.version>1.2.17</log4j.version>
 		<slf4j-api.version>1.7.21</slf4j-api.version>
 		<jcl-over-slf4j.version>1.7.21</jcl-over-slf4j.version>
